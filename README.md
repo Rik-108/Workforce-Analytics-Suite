@@ -1,4 +1,4 @@
-# Workforce-Analytics-Suite
+# Enterprise-Workforce-Analytics-&-Strategic-Intelligence-Suite
 
 ![Platform](https://img.shields.io/badge/Platform-Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-Operations%20Research%20%26%20HR-success)
